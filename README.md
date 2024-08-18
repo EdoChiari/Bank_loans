@@ -16,6 +16,7 @@ Question 3: “What is the distribution of customers by age group and their defa
 
 Understanding the distribution of customers by age group and their default rates is crucial for tailoring marketing strategies. Different age groups have distinct financial behaviors and needs. By identifying which age groups have higher default rates, marketing efforts can be directed towards educating and supporting these groups, developing targeted financial products, and designing campaigns that resonate with their specific circumstances and challenges.
 * Application Aspect:
+
 Question 1: “What is the average income of customers who have defaulted compared to those who have not?” 
 
 Question 5: “What is the average credit-to-debt ratio for different income brackets?”
